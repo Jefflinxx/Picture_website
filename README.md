@@ -6,6 +6,10 @@
 使用技術：
 nodeJS, ReactJS
 
+開啟方式：
+npm start
+
+
 網頁畫面
 
 ![image](/picturewebsite.png)
